@@ -40,9 +40,11 @@ This repository contains a Python implementation of the classic Sokoban puzzle g
 ## 🖼 Preview
 
 
-| Game GUI | ![GUI](![Capture d'écran 2025-07-08 190714](https://github.com/user-attachments/assets/fdf07089-79f9-4192-bb9e-f5bc03b05d95)
+(![Capture d'écran 2025-07-08 190714](https://github.com/user-attachments/assets/fdf07089-79f9-4192-bb9e-f5bc03b05d95)
 (![Capture d'écran 2025-07-08 190730](https://github.com/user-attachments/assets/9e6e9930-edc3-45eb-9f86-f8511b9db94c)
 )(![Capture d'écran 2025-07-08 190741](https://github.com/user-attachments/assets/d4fe3960-f6e5-4ba6-8b3d-ca7248a8173b)
+![Capture d'écran 2025-07-08 190814](https://github.com/user-attachments/assets/a7d711e4-2cf4-4059-89bb-92fa2203834d)
+
 
 
 ---
